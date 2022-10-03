@@ -1,5 +1,5 @@
 # Cats and Dogs Classification 
-
+***
 Welcome to my task! In this study, our aim is to classify cats and dogs.
 
 But initially, you must have an environment called requirements.txt.
@@ -13,5 +13,6 @@ But initially, you must have an environment called requirements.txt.
   - torchvision
   - jupyterlab
 
-My data set is here:
+**My data set is here:***
+
 [Link to the DataSet](https://drive.google.com/file/d/1fuFurVV8rcrVTAFPjhQvzGLNdnTi1jWZ/view)
