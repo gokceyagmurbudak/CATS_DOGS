@@ -1,6 +1,6 @@
 # Cats and Dogs Classification 
 ***
-Welcome to my task! In this study, our aim is to classify cats and dogs.
+Welcome to my task! In this study, our aim is to classify cats and dogs and having the opportunity to use DockerFile. 
 
 But initially, you must have an environment called requirements.txt.
 
